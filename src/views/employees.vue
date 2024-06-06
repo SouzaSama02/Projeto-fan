@@ -59,6 +59,14 @@ export default {
             linkedin: "https://www.linkedin.com/in/wander-santana-763594270/",
           },
         },
+        {
+          name: "Breno Ostelino Silva Coqueiro",
+          role: "Empresário",
+          social: {
+            github: "https://github.com",
+            linkedin: "coqueirobreno55@gmail.com",
+          },
+        },
       ],
     };
   },
